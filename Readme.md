@@ -1,16 +1,3 @@
-My Great Python Module
-======================
-
-This useless module makes a beautiful plot!
-
-# Getting Started
-
-This python package can be used as follows:
-```
-python plot.py
-```
-
-
-# Author
-
-Please contact me. 
+'''
+[jul](https://user-images.githubusercontent.com/113711790/191927802-6cb47850-d4ec-4509-8833-7149920f8db2.jpeg)
+'''
